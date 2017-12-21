@@ -6,12 +6,14 @@ public class GameManager : MonoBehaviour
     public GameObject box;
 
     public static int score;
+    public static bool gameIsOver = false;
 
     private void Start()
     {
         SpawnBox(true);
         BoxController.OnScoreStart += Scored;
         BoxTopTrigManager.OnScore += Scored;
+        BoxController.OnGameOver += GameOver;
     }
 
     private void Update()
@@ -33,6 +35,12 @@ public class GameManager : MonoBehaviour
     {
         score++;
         SpawnBox(false);
+    }
+
+    private void GameOver()
+    {
+        gameIsOver = true;
+        print("Game Over!");
     }
 
 }

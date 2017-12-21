@@ -10,6 +10,8 @@ public class BoxController : MonoBehaviour
     public static event Action OnScoreStart;
     public static event Action OnGameOver;
 
+    bool hasDropped = false;
+
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -27,18 +29,26 @@ public class BoxController : MonoBehaviour
             rb.velocity = new Vector2(moveSpeed, 0);
         }
 
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(0) && !hasDropped)
         {
             rb.gravityScale = 1;
             rb.velocity = Vector2.zero;
+            hasDropped = true;
         }
+
+        if (transform.eulerAngles.z > 20 && transform.eulerAngles.z < 340 && !GameManager.gameIsOver)
+        {
+            OnGameOver();
+            print("TRIGGERED" + transform.eulerAngles.z);
+        }
+
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.collider.CompareTag("Platform"))
         {
-            if (tag == "StartBox")
+            if (tag == "StartBox" && !GameManager.gameIsOver)
             {
                 if (OnScoreStart != null)
                 {
@@ -47,19 +57,20 @@ public class BoxController : MonoBehaviour
             }
             else
             {
-                if (OnGameOver != null)
+                if (OnGameOver != null && !GameManager.gameIsOver)
                 {
-                    OnGameOver();
+                    OnGameOver();                    
                 }
             }
         }
+    }
 
-        if (transform.position.y >= Camera.main.transform.position.y)
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("DeadZone") && !GameManager.gameIsOver)
         {
-            Vector3 pos = Camera.main.transform.position;
-            pos.y += .4f;
-            Camera.main.transform.position = pos;
-            Camera.main.orthographicSize += .4f;
+            OnGameOver();
+            Destroy(gameObject);
         }
     }
 
