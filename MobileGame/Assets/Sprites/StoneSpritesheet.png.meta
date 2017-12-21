@@ -1,0 +1,1018 @@
+fileFormatVersion: 2
+guid: 9abba827dbfe6184b9caebdc07da7508
+timeCreated: 1513815159
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: StoneSpritesheet_0
+    21300002: StoneSpritesheet_1
+    21300004: StoneSpritesheet_2
+    21300006: StoneSpritesheet_3
+    21300008: StoneSpritesheet_4
+    21300010: StoneSpritesheet_5
+    21300012: StoneSpritesheet_6
+    21300014: StoneSpritesheet_7
+    21300016: StoneSpritesheet_8
+    21300018: StoneSpritesheet_9
+    21300020: StoneSpritesheet_10
+    21300022: StoneSpritesheet_11
+    21300024: StoneSpritesheet_12
+    21300026: StoneSpritesheet_13
+    21300028: StoneSpritesheet_14
+    21300030: StoneSpritesheet_15
+    21300032: StoneSpritesheet_16
+    21300034: StoneSpritesheet_17
+    21300036: StoneSpritesheet_18
+    21300038: StoneSpritesheet_19
+    21300040: StoneSpritesheet_20
+    21300042: StoneSpritesheet_21
+    21300044: StoneSpritesheet_22
+    21300046: StoneSpritesheet_23
+    21300048: StoneSpritesheet_24
+    21300050: StoneSpritesheet_25
+    21300052: StoneSpritesheet_26
+    21300054: StoneSpritesheet_27
+    21300056: StoneSpritesheet_28
+    21300058: StoneSpritesheet_29
+    21300060: StoneSpritesheet_30
+    21300062: StoneSpritesheet_31
+    21300064: StoneSpritesheet_32
+    21300066: StoneSpritesheet_33
+    21300068: StoneSpritesheet_34
+    21300070: StoneSpritesheet_35
+    21300072: StoneSpritesheet_36
+    21300074: StoneSpritesheet_37
+    21300076: StoneSpritesheet_38
+    21300078: StoneSpritesheet_39
+    21300080: StoneSpritesheet_40
+    21300082: StoneSpritesheet_41
+    21300084: StoneSpritesheet_42
+    21300086: StoneSpritesheet_43
+    21300088: StoneSpritesheet_44
+    21300090: StoneSpritesheet_45
+    21300092: StoneSpritesheet_46
+    21300094: StoneSpritesheet_47
+    21300096: StoneSpritesheet_48
+    21300098: StoneSpritesheet_49
+    21300100: StoneSpritesheet_50
+    21300102: StoneSpritesheet_51
+    21300104: StoneSpritesheet_52
+    21300106: StoneSpritesheet_53
+    21300108: StoneSpritesheet_54
+    21300110: StoneSpritesheet_55
+    21300112: StoneSpritesheet_56
+    21300114: StoneSpritesheet_57
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 230
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StoneSpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3248
+        width: 293
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 3248
+        width: 588
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 3248
+        width: 295
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 3248
+        width: 296
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 3248
+        width: 587
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 3248
+        width: 297
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 3248
+        width: 297
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 3248
+        width: 587
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 3831
+        y: 3248
+        width: 295
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 4457
+        y: 3248
+        width: 295
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 4790
+        y: 3248
+        width: 587
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 5414
+        y: 3248
+        width: 295
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2915
+        width: 293
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2915
+        width: 588
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 2915
+        width: 920
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 2291
+        width: 297
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 2291
+        width: 587
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2873
+        y: 2915
+        width: 296
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 2915
+        width: 587
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 3831
+        y: 2915
+        width: 921
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 4790
+        y: 2291
+        width: 295
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 5123
+        y: 2291
+        width: 586
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2291
+        width: 293
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2291
+        width: 588
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 2291
+        width: 920
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 2291
+        width: 297
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 2291
+        width: 587
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3831
+        y: 2291
+        width: 921
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1958
+        width: 293
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1958
+        width: 588
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1958
+        width: 920
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1332
+        width: 297
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 1332
+        width: 588
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 1958
+        width: 297
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 1958
+        width: 587
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 3831
+        y: 1958
+        width: 921
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 4790
+        y: 1332
+        width: 295
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 5123
+        y: 1332
+        width: 586
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1332
+        width: 293
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1332
+        width: 588
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1332
+        width: 920
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 1332
+        width: 297
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 1332
+        width: 587
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 3831
+        y: 1332
+        width: 921
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 957
+        width: 293
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 957
+        width: 588
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 957
+        width: 295
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1003
+        width: 234
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 974
+        width: 268
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 1022
+        width: 245
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 293
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 624
+        width: 588
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 624
+        width: 920
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 0
+        width: 297
+        height: 919
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 0
+        width: 587
+        height: 919
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 293
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 0
+        width: 588
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSpritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 0
+        width: 920
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
